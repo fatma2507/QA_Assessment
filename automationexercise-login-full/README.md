@@ -18,19 +18,4 @@ Features:
 - Maven
 - Page Object Model
 
-## Setup
-1. Install Java 11+, Maven, Chrome, and ChromeDriver
-2. Clone or unzip project
-3. Update credentials in `LoginTest.java` (EMAIL & PASSWORD)
-4. Install dependencies:
-```
-mvn clean install
-```
 
-## Execute Tests
-```
-mvn test
-```
-
-## Screenshots
-Screenshots are saved under `screenshots/` if test fails.
